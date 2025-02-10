@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+canvas {
+    background-color: skyblue;
+    display: block;
+    margin: auto;
+}
+
+/* Game menu styling */
+#menu {
+    margin-top: 20px;
+}
+
+.game-link {
+    display: block;
+    margin: 20px;
+    font-size: 20px;
+    cursor: pointer;
+    color: #333;
+    text-decoration: none;
+}
+
+.game-link:hover {
+    color: #007BFF;
+}
